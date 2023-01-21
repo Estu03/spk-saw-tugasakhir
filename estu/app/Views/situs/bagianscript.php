@@ -1,0 +1,14 @@
+<script src="<?php echo base_url('/assets/situs/js/jquery.min.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/modernizr.custom.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/jquery.easing.1.3.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/bootstrap.min.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/plugins/flexslider/jquery.flexslider-min.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/plugins/flexslider/flexslider.config.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/jquery.appear.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/stellar.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/classie.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/uisearch.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/jquery.cubeportfolio.min.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/google-code-prettify/prettify.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/animate.js') ?>"></script>
+<script src="<?php echo base_url('/assets/situs/js/custom.js') ?>"></script>
